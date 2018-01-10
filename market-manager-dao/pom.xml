@@ -38,11 +38,12 @@
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
 		</dependency>
-		
+	<!-- 
 	<dependency>    
         <groupId>com.oracle</groupId>    
         <artifactId>ojdbc14</artifactId>    
-    </dependency>
+    </dependency>	
+	 -->
 
 
 		<!-- 连接池 -->
