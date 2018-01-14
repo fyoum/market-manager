@@ -15,7 +15,7 @@ import service.ItemService;
 @Service
 public class ItemServiceImp implements ItemService {
 	
-	@Autowired
+	
 	private TbItemMapper tbItemMapper;
 
 	public TbItemMapper getTbItemMapper() {
